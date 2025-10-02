@@ -11,6 +11,6 @@ package git.practicegit2;
 public class PracticeGit2 {
 
     public static void main(String[] args) {
-        System.out.println("This is version three");
+        System.out.println("This is version four");
     }
 }
